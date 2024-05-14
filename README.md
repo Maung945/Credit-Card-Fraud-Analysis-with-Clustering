@@ -13,6 +13,6 @@ In this project, we analyzed credit card fraud dataset by DHANUSH NARAYANAN R fr
 ## Running Code: 
 
 1. Clone the git repo to local repository
-3. Download the dataset from Kaggle here: [https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud] (https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
+3. Download the dataset from Kaggle here: [https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
 4. Unzip file to access dataset (should be called `archive.csv`)
-5. Move dataset file to the same directory as [Capstone.ipynb] (./Capstone.ipynb)
+5. Move dataset file to the same directory as [Capstone.ipynb](./Capstone.ipynb)
