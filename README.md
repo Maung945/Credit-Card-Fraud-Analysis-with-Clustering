@@ -10,6 +10,10 @@ Members:
 
 In this project, we analyzed credit card fraud dataset by DHANUSH NARAYANAN R from Kaggle (https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud). After our initial analysis of the data, we then utilized the K Nearest Neighbors (KNN) classifier in order to create a model to predict fradulent cases based on the features provided. 
 
+## Class Project Report:
+
+This project's class report can be found [here](https://docs.google.com/document/d/1XfSRAqpr7NFDD2lFN6CrLQBQfnpi6Aun2UazZJmjwYI/edit?usp=sharing).
+
 ## Running Code: 
 
 1. Clone the git repo to local repository
